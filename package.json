@@ -9,7 +9,7 @@
     "document",
     "vector"
   ],
-  "version": "0.19.1",
+  "version": "0.19.1-lineaje-01",
   "homepage": "http://pdfkit.org/",
   "author": {
     "name": "Devon Govett",
@@ -17,9 +17,15 @@
     "url": "http://badassjs.com/"
   },
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/foliojs/pdfkit.git"
+    "url": "https://github.com/lineaje-labs-gos/foliojs-pdfkit"
   },
   "bugs": "https://github.com/foliojs/pdfkit/issues",
   "devDependencies": {
