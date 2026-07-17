@@ -88,12 +88,12 @@
   ],
   "packageManager": "yarn@4.16.0",
   "overrides": {
-    "picomatch": ">=4.0.4",
+    "picomatch": ">=4.0.5",
     "glob": ">=10.5.0",
     "minimatch": ">=9.0.9"
   },
   "resolutions": {
-    "picomatch": ">=4.0.4",
+    "picomatch": ">=4.0.5",
     "glob": ">=10.5.0",
     "minimatch": ">=9.0.9"
   }
